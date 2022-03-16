@@ -1,2 +1,3 @@
-# 326-test-repo
-# 326-test-repo
+# 326-test-repo-for-demo
+
+Hello CECS 326!
